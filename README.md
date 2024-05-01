@@ -1,6 +1,7 @@
 # wellnessFitX-backend
 
 WellnessFitX
+
 A web service that helps users to track their workout & meal plans.
 
 
