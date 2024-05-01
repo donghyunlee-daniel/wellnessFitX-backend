@@ -2,7 +2,7 @@
 
 WellnessFitX
 
-A web service that helps users to track their workout & meal plans.
+A web application that helps users to track their workout & meal plans.
 
 
 
