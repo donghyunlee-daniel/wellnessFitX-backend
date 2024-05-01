@@ -1,0 +1,22 @@
+{
+  "name": "wellnessfitx-backend",
+  "version": "1.0.0",
+  "description": "WellnessFitX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donghyunlee-daniel/wellnessFitX-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donghyunlee-daniel/wellnessFitX-backend/issues"
+  },
+  "homepage": "https://github.com/donghyunlee-daniel/wellnessFitX-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
